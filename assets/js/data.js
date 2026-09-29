@@ -637,7 +637,7 @@ window.TRAVEL_DATA = {
                  "passengers":  [
                                     {
                                         "name":  "PAULA MOREIRA",
-                                        "ticketNumber":  "0012376835561"
+                                        "ticketNumber":  "xxxxxxxx"
                                     }
                                 ],
                  "flights":  [
