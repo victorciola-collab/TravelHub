@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101114">
+  <meta name="description" content="Guia pessoal de viagem.">
+  <title>TravelHub — Guia de viagem</title>
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar">
+      <a class="brand" href="#dashboard" aria-label="TravelHub, início">
+        <span class="brand-mark">✦</span><span>travel<span class="brand-light">hub</span></span>
+      </a>
+      <div class="trip-picker"><span class="trip-flag">🧭</span><span class="trip-label"><strong>Viagem</strong><small>—</small></span><span class="chevron">⌄</span></div>
+      <p class="nav-caption">VIAGEM</p>
+      <nav class="primary-nav" aria-label="Navegação principal">
+        <a class="nav-link active" href="#dashboard" data-page="dashboard"><span class="nav-icon">⌂</span>Dashboard</a>
+        <a class="nav-link" href="#roteiro" data-page="roteiro"><span class="nav-icon">▦</span>Roteiro</a>
+        <a class="nav-link" href="#hoteis" data-page="hoteis"><span class="nav-icon">▤</span>Hotéis</a>
+        <a class="nav-link" href="#voos" data-page="voos"><span class="nav-icon">✈</span>Voos</a>
+        <a class="nav-link" href="#locais" data-page="locais"><span class="nav-icon">◎</span>Locais</a>
+      </nav>
+      <div class="sidebar-bottom"><div class="offline-pill"><span class="status-dot"></span></div><div class="profile"><div class="avatar">V</div><div><strong>Minha viagem</strong><small>—</small></div><span class="more">···</span></div></div>
+    </aside>
+
+    <main class="main-content">
+      <header class="topbar"><button class="menu-button" id="menu-button" aria-label="Abrir menu" aria-expanded="false">☰</button><div class="breadcrumbs"><span>Minhas viagens</span><span class="crumb-sep">/</span><strong id="breadcrumb-current">Dashboard</strong></div><div class="topbar-actions"><button class="theme-toggle" id="theme-toggle" type="button" aria-label="Mudar tema" title="Tema atual: Dark"><span class="theme-toggle-icon" aria-hidden="true">◐</span><span class="theme-toggle-label">Dark</span></button><span class="saved-label"><span class="status-dot"></span> Fonte: JSON + data.js</span><button class="icon-button" aria-label="Mais opções">···</button></div></header>
+      <div class="page-wrap">
+        <section class="page active-page" id="page-dashboard" data-title="Dashboard">
+          <div class="hero-heading"><div><div class="eyebrow"><span>✦</span> PRÓXIMA VIAGEM</div><h1>Viagem <span class="year">—</span></h1><p class="subtitle">Resumo da sua próxima viagem.</p></div><div class="date-chip">◷ &nbsp;—</div></div>
+          <div class="hero-card"><div class="hero-image" role="img" aria-label="Imagem de destaque da viagem"><div class="image-overlay"></div><div class="hero-image-copy"><span class="image-kicker">SUA VIAGEM</span><strong>Tradição, cidade<br>e novas paisagens.</strong></div><div class="hero-location">◉ &nbsp;Destino</div></div><div class="countdown"><div><span class="count-number" id="days-left">—</span><span class="count-label">dias</span></div><div class="count-sep"></div><p>até a sua<br><strong>partida</strong></p><span class="count-spark">✳</span></div></div>
+          <div class="trip-facts" aria-label="Resumo da viagem"><div class="trip-fact"><span class="trip-fact-icon">▦</span><div><small>PERÍODO DO ROTEIRO</small><strong>—</strong></div></div><div class="trip-fact"><span class="trip-fact-icon">◷</span><div><small>DURAÇÃO</small><strong>—</strong></div></div><div class="trip-fact"><span class="trip-fact-icon">◎</span><div><small>CIDADES</small><strong>—</strong></div></div><div class="trip-fact"><span class="trip-fact-icon">✈</span><div><small>ROTA AÉREA</small><strong>—</strong></div></div></div>
+          <div class="section-heading"><div><h2>Resumo da viagem</h2><p>Uma visão geral do que vem por aí.</p></div><a class="text-link" href="#roteiro">Ver roteiro <span>→</span></a></div>
+          <div class="stats-grid"><a class="stat-card" href="#roteiro"><div class="stat-top"><span class="stat-icon blue-icon">▦</span><span class="stat-arrow">↗</span></div><strong>— <small>dias</small></strong><span class="stat-caption">no roteiro</span><div class="mini-route"><i></i><i></i><i></i><span>—</span></div><span class="stat-foot">—</span></a><a class="stat-card" href="#hoteis"><div class="stat-top"><span class="stat-icon purple-icon">▤</span><span class="stat-arrow">↗</span></div><strong>— <small>estadias</small></strong><span class="stat-caption">uma base em cada cidade</span><span class="stat-foot">—</span></a><a class="stat-card" href="#voos"><div class="stat-top"><span class="stat-icon orange-icon">✈</span><span class="stat-arrow">↗</span></div><strong>— <small>trechos</small></strong><span class="stat-caption">—</span><span class="stat-foot">—</span></a><a class="stat-card" href="#locais"><div class="stat-top"><span class="stat-icon green-icon">◎</span><span class="stat-arrow">↗</span></div><strong>— <small>locais</small></strong><span class="stat-caption">na sua lista</span><span class="stat-foot">—</span></a></div>
+          <div class="dashboard-bottom"><section class="panel next-panel"><div class="panel-heading"><div><h2>Próximos passos</h2><p>Pequenas coisas para deixar tudo pronto.</p></div><div class="task-heading-actions"><span class="progress-count">—</span><button class="manage-button" type="button" data-add="task">Adicionar</button></div></div><div class="progress-track"><span></span></div><div id="tasks-list"></div></section><section class="panel route-panel"><div class="panel-heading"><div><h2>Seu caminho</h2><p>Seu caminho ao longo da viagem.</p></div><a class="subtle-link" href="#roteiro">Ver tudo →</a></div><div class="route-list"></div></section></div>
+          <footer class="page-footer">Feito para viajar com calma <span>✳</span></footer>
+        </section>
+
+        <section class="page" id="page-roteiro" data-title="Roteiro"><div class="page-heading"><div class="eyebrow">SUA JORNADA</div><h1>Roteiro</h1><p class="subtitle">Roteiro da viagem.</p></div><div class="itinerary-controls"><div class="tabs" role="tablist"></div><button class="manage-button today-mode-toggle" id="today-mode-toggle" type="button" aria-pressed="false">☀ Modo Hoje</button></div><div class="itinerary-list" id="itinerary-list"></div></section>
+
+        <section class="page" id="page-hoteis" data-title="Hotéis"><div class="page-heading"><div class="eyebrow">ONDE DESCANSAR</div><h1>Hotéis</h1><p class="subtitle">Suas estadias ao longo do caminho.</p></div><div class="collection-toolbar"><span>Suas hospedagens</span><button class="manage-button primary" type="button" data-add="hotel">Adicionar hotel</button></div><div class="content-grid" id="hotels-grid"></div></section>
+
+        <section class="page" id="page-voos" data-title="Voos"><div class="page-heading"><div class="eyebrow">NO AR</div><h1>Voos</h1><p class="subtitle">O começo e o fim de uma viagem inesquecível.</p></div><div class="flight-list" id="flights-list"></div><div class="note-card"><span>✦</span><div><strong>Dica de viagem</strong><p>Chegue ao aeroporto com pelo menos 3 horas de antecedência para voos internacionais.</p></div></div></section>
+
+        <section class="page" id="page-locais" data-title="Locais"><div class="page-heading"><div class="eyebrow">NA SUA LISTA</div><h1>Locais</h1><p class="subtitle">Lugares que fazem essa viagem ser sua.</p></div><div class="places-counters" aria-label="Resumo dos locais"><div class="places-counter"><span>Visitados</span><strong data-place-count="visited">0</strong></div><div class="places-counter"><span>Planejados</span><strong data-place-count="planned">0</strong></div><div class="places-counter"><span>Pendentes</span><strong data-place-count="pending">0</strong></div></div><div class="filter-row"><div class="place-select-filters"><label>Cidade<select id="place-city-filter" aria-label="Filtrar locais por cidade"><option>Todos</option></select></label><label>Status<select id="place-status-filter" aria-label="Filtrar locais por status"><option>Todos</option><option>Quero visitar</option><option>Planejado</option><option>Visitado</option><option>Cancelado</option></select></label><label>Prioridade<select id="place-priority-filter" aria-label="Filtrar locais por prioridade"><option value="Todas">Todas</option><option>Imperdível</option><option>Gostaria de ir</option><option>Se sobrar tempo</option></select></label></div><div class="places-tools"><span class="places-total">Locais</span><button class="manage-button primary" type="button" data-add="place">Adicionar local</button></div></div><div class="places-grid" id="places-grid"></div></section>
+      </div>
+    </main>
+  </div>
+  <dialog class="place-dialog" id="place-dialog" aria-labelledby="place-dialog-title"><button class="dialog-close" type="button" aria-label="Fechar detalhes">×</button><div id="place-dialog-content"></div></dialog>
+  <dialog class="itinerary-manager-dialog" id="itinerary-place-dialog" aria-labelledby="itinerary-place-dialog-title"><button class="dialog-close" type="button" data-close-itinerary-manager aria-label="Fechar gerenciamento de locais">×</button><div class="itinerary-manager-heading"><span>PLANEJAMENTO DO DIA</span><h2 id="itinerary-place-dialog-title">Gerenciar locais</h2><p id="itinerary-place-dialog-subtitle"></p></div><div class="itinerary-manager-filters"><label>Pesquisar local<input type="search" id="itinerary-place-search" placeholder="Digite o nome do local"></label><label>Categoria<select id="itinerary-place-category"><option value="">Todas as categorias</option></select></label></div><div class="itinerary-place-options" id="itinerary-place-options"></div><div class="itinerary-manager-actions"><button type="button" class="manage-button" data-close-itinerary-manager>Cancelar</button><button type="button" class="manage-button primary" id="save-itinerary-places">Salvar locais</button></div></dialog>
+  <dialog class="manage-dialog" id="manage-dialog" aria-labelledby="manage-dialog-title"><button class="dialog-close" type="button" data-close-manage aria-label="Fechar formulário">×</button><form id="manage-form"><div id="manage-form-body"></div><div class="manage-form-actions"><button class="manage-button" type="button" data-close-manage>Cancelar</button><button class="manage-button primary" type="submit">Salvar</button></div></form></dialog>
+  <div class="manage-toast" id="manage-toast" role="status" aria-live="polite"></div>
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/places-loader.js"></script>
+</body>
+</html>
