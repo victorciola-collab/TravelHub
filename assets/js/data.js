@@ -614,31 +614,14 @@ window.TRAVEL_DATA = {
   "maps": "https://maps.app.goo.gl/BiaZvVx2CbJgKohn9",
   "icon": "🏨",
   "notes": "Quarto Duplo - Não Fumantes. 2 adultos. 8 noites. Cancelamento gratuito até 1 dia antes da chegada. Sem café da manhã incluído. Valor estimado de ¥177.257 (aprox. R$ 6.333,25 na data da reserva). Localização estratégica entre Asakusa e Kuramae, com acesso fácil ao Senso-ji, Tokyo Skytree e linha direta para Narita."
-},
-                   {
-                       "id":  "hotel-kyoto-01",
-                       "city":  "KYOTO",
-                       "name":  "Cross Hotel Kyoto",
-                       "area":  "Kawaramachi · centro histórico",
-                       "dates":  "15—20 OUT · 5 noites",
-                       "icon":  "⌂",
-                       "address":  "",
-                       "maps":  "",
-                       "booking":  "",
-                       "checkin":  "",
-                       "checkout":  "",
-                       "notes":  ""
-                   }
+}
                ],
     "trip":  {
                  "id":  "japan-2026",
                  "confirmationCode":  "UUGPVO",
                  "airline":  "American Airlines",
                  "passengers":  [
-                                    {
-                                        "name":  "PAULA MOREIRA",
-                                        "ticketNumber":  "xxxxxxxx"
-                                    }
+                                    
                                 ],
                  "flights":  [
                                  {

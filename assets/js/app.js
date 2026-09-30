@@ -643,7 +643,7 @@
   renderFlights();
 
   const placesGrid = document.querySelector('#places-grid');
-  const placeFilters = { city: 'Todos', status: 'Todos', priority: 'Todas' };
+  const placeFilters = { city: 'Todos', status: 'Todos', priority: 'Todas', search: '', sort: 'az' };
   const placeStatus = place => place.status || 'Quero visitar';
   const placePriority = place => place.prioridade || 'Gostaria de ir';
   function placeImageUrl(place) {
@@ -678,17 +678,26 @@
   }
   function renderPlaces() {
     const cityFilter = document.querySelector('#place-city-filter');
+    const searchInput = document.querySelector('#place-name-search');
+    const sortFilter = document.querySelector('#place-sort-filter');
     const cities = [...new Set(data.places.map(place => place.city).filter(Boolean))].sort((a, b) => a.localeCompare(b));
     if (cityFilter) {
       cityFilter.innerHTML = `<option value="Todos">Todas as cidades</option>${cities.map(city => `<option value="${escapeHtml(city)}">${escapeHtml(city)}</option>`).join('')}`;
       if (placeFilters.city !== 'Todos' && !cities.includes(placeFilters.city)) placeFilters.city = 'Todos';
       cityFilter.value = placeFilters.city;
     }
+    if(searchInput)searchInput.value=placeFilters.search;
+    if(sortFilter)sortFilter.value=placeFilters.sort;
+    const search=normalizeText(placeFilters.search);
     const places = data.places.filter(place =>
       (placeFilters.city === 'Todos' || place.city === placeFilters.city) &&
       (placeFilters.status === 'Todos' || placeStatus(place) === placeFilters.status) &&
-      (placeFilters.priority === 'Todas' || placePriority(place) === placeFilters.priority)
-    );
+      (placeFilters.priority === 'Todas' || placePriority(place) === placeFilters.priority) &&
+      (!search || normalizeText(place.name).includes(search))
+    ).sort((a,b)=>{
+      const order=String(a.name||'').localeCompare(String(b.name||''),'pt-BR',{sensitivity:'base'});
+      return placeFilters.sort==='za'?-order:order;
+    });
     placesGrid.innerHTML = places.map(place => {
       const index = data.places.indexOf(place);
       const status = placeStatus(place);
@@ -718,6 +727,8 @@
   document.querySelector('#place-city-filter')?.addEventListener('change', event => { placeFilters.city = event.target.value; renderPlaces(); });
   document.querySelector('#place-status-filter')?.addEventListener('change', event => { placeFilters.status = event.target.value; renderPlaces(); });
   document.querySelector('#place-priority-filter')?.addEventListener('change', event => { placeFilters.priority = event.target.value; renderPlaces(); });
+  document.querySelector('#place-name-search')?.addEventListener('input', event => { placeFilters.search = event.target.value; renderPlaces(); });
+  document.querySelector('#place-sort-filter')?.addEventListener('change', event => { placeFilters.sort = event.target.value; renderPlaces(); });
 
   const placeDialog = document.querySelector('#place-dialog');
   const placeDialogContent = document.querySelector('#place-dialog-content');

@@ -22,7 +22,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Senso-ji%2C%20Tokyo%2C%20Japan",
         "website":  "https://www.senso-ji.jp/english/",
         "openingHours":  "Salão principal: 06:30–17:00 (outubro a março); recinto aberto continuamente.",
-        "image":  "",
+        "image":  "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2020/05/sensoji-temple-iStock-1083328636-1024x684.jpg",
         "notes":  ""
     },
     {
@@ -78,7 +78,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Nakamise%20Street%20Tokyo%2C%20Japan",
         "website":  "https://www.asakusa-nakamise.jp/",
         "openingHours":  "Lojas em geral 09:00–18:00; varia",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Nakamise%20Street%20Tokyo.jpg",
+        "image":  "https://static1.squarespace.com/static/5d3ee66abacfa00001df6854/t/5f069ed2fa5c672f37a92656/1594345760363/tokyo-private-tour-nakamise-shopping-street.jpeg?format=1500w",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -106,7 +106,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Asakusa%20Tokyo%2C%20Japan",
         "website":  "https://www.gotokyo.org/en/destinations/eastern-tokyo/asakusa/",
         "openingHours":  "Área pública; estabelecimentos variam",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Asakusa%20Tokyo%20Japan.jpg",
+        "image":  "https://imgmd.net/images/v1/guia/1596780/asakusa.jpg",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -162,7 +162,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Meiji%20Jingu%20Tokyo%2C%20Japan",
         "website":  "https://www.meijijingu.or.jp/en/",
         "openingHours":  "Do nascer ao pôr do sol; gratuito",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Meiji%20Jingu%20Shrine%20Tokyo.jpg",
+        "image":  "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2020/05/meiji-jingu-iStock-499807771-1024x600.jpg",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -190,7 +190,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Harajuku%20Tokyo%2C%20Japan",
         "website":  "https://www.gotokyo.org/en/destinations/western-tokyo/harajuku/",
         "openingHours":  "Área pública; lojas em horários variados",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Harajuku%20Tokyo%20Japan.jpg",
+        "image":  "https://www.vounajanela.com/wp-content/uploads/2019/10/harajuku-toquio-10.jpg",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -218,7 +218,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Omotesando%20Tokyo%2C%20Japan",
         "website":  "https://www.gotokyo.org/en/destinations/western-tokyo/omotesando/",
         "openingHours":  "Avenida pública; lojas durante o dia",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Omotesando%20Tokyo.jpg",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/0/06/Omotesando_Tokyo_spring_2012.JPG?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -246,7 +246,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Shibuya%20Crossing%20Tokyo%2C%20Japan",
         "website":  "https://www.japan.travel/en/spot/2177/",
         "openingHours":  "Aberto continuamente",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Shibuya%20crossing%20Tokyo.jpg",
+        "image":  "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_oed66609297i3alcei8gmcl449",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -274,7 +274,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Shibuya%20Sky%20Tokyo%2C%20Japan",
         "website":  "https://www.shibuya-scramble-square.com/sky/",
         "openingHours":  "10:00–22:30; última entrada 21:20 (sujeito a alteração)",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Shibuya%20Sky%20Tokyo.jpg",
+        "image":  "https://a1.cdn.japantravel.com/photo/98-214195/1440x960%21/tokyo-shibuya-sky-214195.webp",
         "notes":  "Preço indicativo por adulto; confirme valor, disponibilidade e calendário oficial para a data da visita."
     },
     {
@@ -330,7 +330,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Ginza%20Tokyo%2C%20Japan",
         "website":  "https://www.ginza.jp/en/",
         "openingHours":  "Lojas tipicamente 11:00–20:00; varia",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Ginza%20Tokyo%20night.jpg",
+        "image":  "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/b5/a1/da/ginza-pana-01-largejpg.jpg?w=1200&h=-1&s=1",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -358,7 +358,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Tokyo%20DisneySea%20Tokyo%2C%20Japan",
         "website":  "https://www.tokyodisneyresort.jp/en/tds/",
         "openingHours":  "Varia por data; calendário oficial",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20DisneySea%20Mount%20Prometheus.jpg",
+        "image":  "https://i0.statig.com.br/bancodeimagens/eo/ib/re/eoibre93z7mdrp246qlpi6p4g.jpg",
         "notes":  "Preço indicativo por adulto; confirme valor, disponibilidade e calendário oficial para a data da visita."
     },
     {
@@ -386,7 +386,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Tokyo%20Disneyland%20Tokyo%2C%20Japan",
         "website":  "https://www.tokyodisneyresort.jp/en/tdl/",
         "openingHours":  "Varia por data; calendário oficial",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20Disneyland%20Cinderella%20Castle.jpg",
+        "image":  "https://res.klook.com/image/upload/w_500,h_313,c_fill,q_85/activities/cyzknhfx93h5ns5qv7mm.jpg",
         "notes":  "Preço indicativo por adulto; confirme valor, disponibilidade e calendário oficial para a data da visita."
     },
     {
@@ -414,7 +414,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Akihabara%20Tokyo%2C%20Japan",
         "website":  "https://www.gotokyo.org/en/destinations/eastern-tokyo/akihabara/",
         "openingHours":  "Área pública; lojas geralmente 10:00–20:00",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Akihabara%20Electric%20Town%20Tokyo.jpg",
+        "image":  "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2020/05/akihabara-iStock-484915982-1024x600.jpg",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -442,7 +442,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=TeamLab%20Borderless%20Tokyo%2C%20Japan",
         "website":  "https://www.teamlab.art/e/tokyo/",
         "openingHours":  "Horários variam; última entrada 1h antes",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/teamLab%20Borderless%20Tokyo.jpg",
+        "image":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3A2PFuuLspKN6h1ewbGx7grIEK9T4i1kTXN3_xm3IZj3IePZgYLoOJh8&s=10",
         "notes":  "Preço indicativo por adulto; confirme valor, disponibilidade e calendário oficial para a data da visita."
     },
     {
@@ -498,7 +498,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Lake%20Kawaguchiko%20Yamanashi%2C%20Japan",
         "website":  "https://www.fujisan.ne.jp/",
         "openingHours":  "Margens públicas contínuas; atividades variam",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Kawaguchi%20Mount%20Fuji.jpg",
+        "image":  "https://www.japan-guide.com/g18/6906_01.jpg",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -526,7 +526,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Oishi%20Park%20Yamanashi%2C%20Japan",
         "website":  "https://www.fujisan.ne.jp/",
         "openingHours":  "Parque contínuo; centro de visitantes diurno",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Oishi%20Park%20Kawaguchiko.jpg",
+        "image":  "https://cdn.cheapoguides.com/wp-content/uploads/sites/3/2023/01/oishi-park-winter.jpg",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -554,7 +554,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Mt.%20Fuji%20Panoramic%20Ropeway%20Yamanashi%2C%20Japan",
         "website":  "https://www.mtfujiropeway.jp/en/guide/",
         "openingHours":  "08:30–17:00; última descida 17:20, sazonal",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Kawaguchiko%20Mt%20Fuji%20Panoramic%20Ropeway.jpg",
+        "image":  "https://res.klook.com/image/upload/w_750,h_469,c_fill,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/qharlqmukzfknbfcegke.jpg",
         "notes":  "Preço indicativo por adulto; confirme valor, disponibilidade e calendário oficial para a data da visita."
     },
     {
@@ -582,7 +582,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Gion%20Kyoto%2C%20Japan",
         "website":  "https://www.kyoto.travel/en/areas/gion/",
         "openingHours":  "Área pública contínua; estabelecimentos variam",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Gion%20Kyoto%20street.jpg",
+        "image":  "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/16/5d/14/b0.jpg",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -610,7 +610,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Hanamikoji%20Kyoto%2C%20Japan",
         "website":  "https://www.kyoto.travel/en/areas/gion/",
         "openingHours":  "Rua pública; lojas e restaurantes variam",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Hanamikoji%20Street%20Kyoto.jpg",
+        "image":  "https://www.gpsmycity.com/img/gd_sight/1867.jpg",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -638,7 +638,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Pontocho%20Kyoto%2C%20Japan",
         "website":  "https://www.kyoto.travel/en/areas/central-kyoto/",
         "openingHours":  "Rua pública; restaurantes abrem à noite",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Pontocho%20Kyoto%20alley.jpg",
+        "image":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD_uHXScXKLX8INIjwWQQAyyCLH0ZSkSNH4wHOcP_u6gNbhN1rir2JPIG9&s=10",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -666,7 +666,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Nishiki%20Market%20Kyoto%2C%20Japan",
         "website":  "https://www.kyoto-nishiki.or.jp/en/",
         "openingHours":  "Lojas geralmente 10:00–18:00; varia por loja",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Nishiki%20Market%20Kyoto.jpg",
+        "image":  "https://res.klook.com/image/upload/w_750,h_469,c_fill,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/fmrfip6r7icea7qpodoe.jpg",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -722,7 +722,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Kiyomizu-dera%20Kyoto%2C%20Japan",
         "website":  "https://www.kiyomizudera.or.jp/en/",
         "openingHours":  "Abre geralmente 06:00; fechamento sazonal/eventos",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Kiyomizu%20dera%20Kyoto.jpg",
+        "image":  "https://d1s09xku4jkn9v.cloudfront.net/alternate/117c31031dd147f692c65ea3b6cb9ff2_800.jpeg",
         "notes":  "Preço indicativo por adulto; confirme valor, disponibilidade e calendário oficial para a data da visita."
     },
     {
@@ -750,7 +750,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Ninenzaka%20Kyoto%2C%20Japan",
         "website":  "https://www.kyoto.travel/en/areas/higashiyama/",
         "openingHours":  "Rua contínua; lojas geralmente durante o dia",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Ninenzaka%20Kyoto.jpg",
+        "image":  "https://images.trvl-media.com/place/6204602/3f6981ce-61c0-4097-afa4-d7c641fc9232.jpg",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -778,7 +778,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Sannenzaka%20Kyoto%2C%20Japan",
         "website":  "https://www.kyoto.travel/en/areas/higashiyama/",
         "openingHours":  "Rua contínua; lojas geralmente durante o dia",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Sannenzaka%20Kyoto.jpg",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/e/e9/Sannenzaka_street%2C_Kyoto_%283811257874%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -806,7 +806,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Hokanji%20(Yasaka%20Pagoda)%20Kyoto%2C%20Japan",
         "website":  "https://www.kyoto.travel/en/destinations/hokanji-templeyasaka-pagoda/",
         "openingHours":  "Abertura interna depende da operação; confirmar",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Yasaka%20Pagoda%20Kyoto.jpg",
+        "image":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnbYIEnRIWaYBql5a6cbwUKr6ntZ0DAuXljREfNKY6Xw&s=10",
         "notes":  "Preço indicativo por adulto; confirme valor, disponibilidade e calendário oficial para a data da visita."
     },
     {
@@ -834,7 +834,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Yasaka%20Shrine%20Kyoto%2C%20Japan",
         "website":  "https://www.yasaka-jinja.or.jp/en/",
         "openingHours":  "Recinto externo acessível continuamente",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Yasaka%20Shrine%20Kyoto.jpg",
+        "image":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQmH4y1s43hEsEAqMvpgIrOkos19JCVPeRI0mvHIisMKYXJzkvfBMgRY&s=10",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -862,7 +862,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Arashiyama%20Bamboo%20Forest%20Kyoto%2C%20Japan",
         "website":  "https://www.japan.travel/en/spot/1141/",
         "openingHours":  "Caminho público contínuo",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Arashiyama%20Bamboo%20Grove%20Kyoto.jpg",
+        "image":  "https://viagemeturismo.abril.com.br/wp-content/uploads/2025/03/kyoto-floresta-bambu.jpg?quality=80&strip=info&w=1024",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -890,7 +890,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Togetsukyo%20Bridge%20Kyoto%2C%20Japan",
         "website":  "https://www.kyoto.travel/en/destinations/togetsukyo-bridge/",
         "openingHours":  "Área pública continuamente",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Togetsukyo%20Bridge%20Kyoto.jpg",
+        "image":  "https://travel.gaijinpot.com/app/uploads/sites/6/2016/09/Togetsuykyo-Bridge-lead-.jpg",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -918,7 +918,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Kuromon%20Market%20Osaka%2C%20Japan",
         "website":  "https://www.kuromon.com/en/",
         "openingHours":  "Lojas geralmente 09:00–18:00; varia",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Kuromon%20Ichiba%20Market%20Osaka.jpg",
+        "image":  "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/e0/90/c2/kuromon-market.jpg?w=1200&h=-1&s=1",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -946,7 +946,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Shinsekai%20Osaka%2C%20Japan",
         "website":  "https://www.osaka-info.jp/en/spot/shinsekai/",
         "openingHours":  "Área pública contínua; atrações variam",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Shinsekai%20Osaka.jpg",
+        "image":  "https://images.trvl-media.com/place/6277000/329095e5-d05d-42b9-a4e8-43c88e9f9e59.jpg",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -974,7 +974,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Umeda%20Sky%20Building%20Osaka%2C%20Japan",
         "website":  "https://www.skybldg.co.jp/en/",
         "openingHours":  "09:30–22:30; última entrada 22:00 (sujeito a alteração)",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Umeda%20Sky%20Building%20Osaka.jpg",
+        "image":  "https://cdn.getyourguide.com/image/format=auto%2Cfit=crop%2Cgravity=auto%2Cquality=60%2Cwidth=400%2Cheight=265%2Cdpr=2/tour_img/7fd1efc91c9d16b8adf2a3e288e38e283c92f68bb2105003721ecfad6fdfa943.jpeg",
         "notes":  "Preço indicativo por adulto; confirme valor, disponibilidade e calendário oficial para a data da visita."
     },
     {
@@ -1002,7 +1002,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Shinsaibashi%20Osaka%2C%20Japan",
         "website":  "https://www.osaka-info.jp/en/spot/shinsaibashi-suji-shopping-street/",
         "openingHours":  "Área pública; lojas geralmente 10:00–20:00",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Shinsaibashi%20Osaka.jpg",
+        "image":  "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/20/00/a2000456/img/basic/a2000456_main.jpg",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -1030,7 +1030,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Dotonbori%20Osaka%2C%20Japan",
         "website":  "https://www.osaka-info.jp/en/spot/dotonbori/",
         "openingHours":  "Área pública contínua; estabelecimentos variam",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Dotonbori%20Osaka%20night.jpg",
+        "image":  "https://onb-cdn.b-cdn.net/images-stn-osaka/118-Dotonbori-Area-Osaka1.jpg",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -1058,7 +1058,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Tsutenkaku%20Osaka%2C%20Japan",
         "website":  "https://www.tsutenkaku.co.jp/",
         "openingHours":  "10:00–20:00; última entrada 19:30 (sujeito a alteração)",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Tsutenkaku%20Tower%20Osaka.jpg",
+        "image":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFLmhFUjht8cWlFJhSQ7XmRsm07GizPxnajX4NY5ThbpYRgpnlFIP16cY&s=10",
         "notes":  "Preço indicativo por adulto; confirme valor, disponibilidade e calendário oficial para a data da visita."
     },
     {
@@ -1086,7 +1086,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Namba%20Yasaka%20Shrine%20Osaka%2C%20Japan",
         "website":  "https://www.osaka-info.jp/en/spot/namba-yasaka-shrine/",
         "openingHours":  "Recinto contínuo; serviços em horário diurno",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Namba%20Yasaka%20Shrine%20Osaka.jpg",
+        "image":  "https://static.japan-food.guide/uploads/article/cover_image/000/000/570/005457c1682a6027b97207fce1994c417ca202da43009b77092356bd5239dcbd/eye_catch_29284747_s__1_.jpg?1759897952",
         "notes":  "Área pública/visitação sujeita a variações locais; confirme informações no site oficial antes da visita."
     },
     {
@@ -1114,7 +1114,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Universal%20Studios%20Japan%20Osaka%2C%20Japan",
         "website":  "https://www.usj.co.jp/web/en/us/",
         "openingHours":  "Horários variam por data; calendário oficial",
-        "image":  "https://commons.wikimedia.org/wiki/Special:FilePath/Universal%20Studios%20Japan%20globe%20Osaka.jpg",
+        "image":  "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/00/32/47/caption.jpg?w=1200&h=-1&s=1",
         "notes":  "Preço indicativo por adulto; confirme valor, disponibilidade e calendário oficial para a data da visita."
     },
     {
@@ -1142,7 +1142,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Narita%20International%20Airport%20Tokyo%20Japan",
         "website":  "https://www.narita-airport.jp/en/",
         "openingHours":  "Consulte o site oficial para horários atualizados.",
-        "image":  "",
+        "image":  "https://travel.gaijinpot.com/app/uploads/sites/6/2018/10/airport-narita.jpg",
         "notes":  "Horários e serviços podem variar; confirme informações no site oficial."
     },
     {
@@ -1170,7 +1170,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Takeshita%20Street%20Harajuku%20Tokyo",
         "website":  "https://www.gotokyo.org/en/destinations/western-tokyo/harajuku/",
         "openingHours":  "Consulte o site oficial para horários atualizados.",
-        "image":  "",
+        "image":  "https://coisasdojapao.com/wp-content/uploads/2018/12/takeshita-street-harajuku-1.jpg",
         "notes":  "Horários e serviços podem variar; confirme informações no site oficial."
     },
     {
@@ -1198,7 +1198,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Marunouchi%20Tokyo%20Japan",
         "website":  "https://www.gotokyo.org/en/destinations/central-tokyo/marunouchi/",
         "openingHours":  "Consulte o site oficial para horários atualizados.",
-        "image":  "",
+        "image":  "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/66/07/a8/exterior.jpg?w=600&h=400&s=1",
         "notes":  "Horários e serviços podem variar; confirme informações no site oficial."
     },
     {
@@ -1226,7 +1226,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=UNIQLO%20Ginza%20Tokyo",
         "website":  "https://www.uniqlo.com/",
         "openingHours":  "Consulte o site oficial para horários atualizados.",
-        "image":  "",
+        "image":  "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F06%2FTW-herzog-de-meuron-uniqlo-tokyo-opens-ginza-flagship-01.jpg?w=1080&cbr=1&q=90&fit=max",
         "notes":  "Horários e serviços podem variar; confirme informações no site oficial."
     },
     {
@@ -1254,7 +1254,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=GU%20Ginza%20Tokyo",
         "website":  "https://www.gu-global.com/",
         "openingHours":  "Consulte o site oficial para horários atualizados.",
-        "image":  "",
+        "image":  "https://media-cdn.tripadvisor.com/media/photo-s/08/c6/af/be/caption.jpg",
         "notes":  "Horários e serviços podem variar; confirme informações no site oficial."
     },
     {
@@ -1282,7 +1282,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Ginza%20Itoya%20Tokyo",
         "website":  "https://www.ito-ya.co.jp/",
         "openingHours":  "Consulte o site oficial para horários atualizados.",
-        "image":  "",
+        "image":  "https://static.gltjp.com/glt/data/directory/15000/14290/20230217_105033_8246c020_w1920.webp",
         "notes":  "Horários e serviços podem variar; confirme informações no site oficial."
     },
     {
@@ -1310,7 +1310,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Ginza%20Loft%20Tokyo",
         "website":  "https://www.loft.co.jp/",
         "openingHours":  "Consulte o site oficial para horários atualizados.",
-        "image":  "",
+        "image":  "https://schemata.jp/wordpress/wp-content/uploads/01_LOFT_GINZA_2019_1F_008_2.jpg",
         "notes":  "Horários e serviços podem variar; confirme informações no site oficial."
     },
     {
@@ -1338,7 +1338,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Kyoto%20Station%20Japan",
         "website":  "https://www.kyoto-station-building.co.jp/en/",
         "openingHours":  "Consulte o site oficial para horários atualizados.",
-        "image":  "",
+        "image":  "https://www.japan-guide.com/g19/3922_11.jpg",
         "notes":  "Horários e serviços podem variar; confirme informações no site oficial."
     },
     {
@@ -1366,119 +1366,7 @@
         "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Arashiyama%20Kyoto%20Japan",
         "website":  "https://kyoto.travel/en/areas/arashiyama/",
         "openingHours":  "Consulte o site oficial para horários atualizados.",
-        "image":  "",
+        "image":  "https://travel.gaijinpot.com/wp-content/uploads/sites/6/2018/06/Hozugawa-river-feature-photo-1.jpg",
         "notes":  "Horários e serviços podem variar; confirme informações no site oficial."
-    },
-    {
-        "id":  "place-super-nintendo-world",
-        "city":  "Osaka",
-        "name":  "Super Nintendo World",
-        "description":  "Área temática de Universal Studios Japan dedicada ao universo Nintendo; acesso sujeito às regras do parque.",
-        "icon":  "🎮",
-        "type":  "Parque Temático",
-        "rating":  "",
-        "status":  "Planejado",
-        "prioridade":  "Gostaria de ir",
-        "bairro":  "Universal Studios Japan",
-        "tempoEstimado":  "2h",
-        "melhorHorario":  "Qualquer horário",
-        "reservaNecessaria":  "Não",
-        "statusReserva":  "Não reservada",
-        "priceCurrency":  "JPY",
-        "priceValue":  0,
-        "tags":  [
-                     "parque temático",
-                     "nintendo",
-                     "usj"
-                 ],
-        "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Super%20Nintendo%20World%20Osaka%20Japan",
-        "website":  "https://www.usj.co.jp/web/en/us/areas/super-nintendo-world",
-        "openingHours":  "Consulte o site oficial para horários atualizados.",
-        "image":  "",
-        "notes":  "Acesso incluído no ingresso do Universal Studios Japan; disponibilidade e regras internas podem variar."
-    },
-    {
-        "id":  "place-wizarding-world-of-harry-potter",
-        "city":  "Osaka",
-        "name":  "The Wizarding World of Harry Potter",
-        "description":  "Área temática de Universal Studios Japan inspirada no universo Harry Potter; acesso sujeito às regras do parque.",
-        "icon":  "🪄",
-        "type":  "Parque Temático",
-        "rating":  "",
-        "status":  "Planejado",
-        "prioridade":  "Gostaria de ir",
-        "bairro":  "Universal Studios Japan",
-        "tempoEstimado":  "2h",
-        "melhorHorario":  "Qualquer horário",
-        "reservaNecessaria":  "Não",
-        "statusReserva":  "Não reservada",
-        "priceCurrency":  "JPY",
-        "priceValue":  0,
-        "tags":  [
-                     "parque temático",
-                     "harry potter",
-                     "usj"
-                 ],
-        "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Wizarding%20World%20of%20Harry%20Potter%20Osaka%20Japan",
-        "website":  "https://www.usj.co.jp/web/en/us/areas/the-wizarding-world-of-harry-potter",
-        "openingHours":  "Consulte o site oficial para horários atualizados.",
-        "image":  "",
-        "notes":  "Acesso incluído no ingresso do Universal Studios Japan; disponibilidade e regras internas podem variar."
-    },
-    {
-        "id":  "place-minion-park",
-        "city":  "Osaka",
-        "name":  "Minion Park",
-        "description":  "Área temática de Universal Studios Japan dedicada aos Minions e suas atrações.",
-        "icon":  "🍌",
-        "type":  "Parque Temático",
-        "rating":  "",
-        "status":  "Planejado",
-        "prioridade":  "Gostaria de ir",
-        "bairro":  "Universal Studios Japan",
-        "tempoEstimado":  "2h",
-        "melhorHorario":  "Qualquer horário",
-        "reservaNecessaria":  "Não",
-        "statusReserva":  "Não reservada",
-        "priceCurrency":  "JPY",
-        "priceValue":  0,
-        "tags":  [
-                     "parque temático",
-                     "minions",
-                     "usj"
-                 ],
-        "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Minion%20Park%20Universal%20Studios%20Japan",
-        "website":  "https://www.usj.co.jp/web/en/us/areas/minion-park",
-        "openingHours":  "Consulte o site oficial para horários atualizados.",
-        "image":  "",
-        "notes":  "Acesso incluído no ingresso do Universal Studios Japan; disponibilidade e regras internas podem variar."
-    },
-    {
-        "id":  "place-jurassic-park",
-        "city":  "Osaka",
-        "name":  "Jurassic Park (USJ)",
-        "description":  "Área temática de Universal Studios Japan inspirada na franquia Jurassic Park.",
-        "icon":  "🦖",
-        "type":  "Parque Temático",
-        "rating":  "",
-        "status":  "Planejado",
-        "prioridade":  "Gostaria de ir",
-        "bairro":  "Universal Studios Japan",
-        "tempoEstimado":  "2h",
-        "melhorHorario":  "Qualquer horário",
-        "reservaNecessaria":  "Não",
-        "statusReserva":  "Não reservada",
-        "priceCurrency":  "JPY",
-        "priceValue":  0,
-        "tags":  [
-                     "parque temático",
-                     "jurassic park",
-                     "usj"
-                 ],
-        "maps":  "https://www.google.com/maps/search/?api=1\u0026query=Jurassic%20Park%20Universal%20Studios%20Japan",
-        "website":  "https://www.usj.co.jp/web/en/us/areas/jurassic-park",
-        "openingHours":  "Consulte o site oficial para horários atualizados.",
-        "image":  "",
-        "notes":  "Acesso incluído no ingresso do Universal Studios Japan; disponibilidade e regras internas podem variar."
     }
 ]

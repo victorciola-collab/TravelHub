@@ -672,3 +672,15 @@ body,.sidebar,.topbar,.trip-picker,.offline-pill,.hero-card,.panel,.stat-card,.d
   #page-locais .places-tools{min-height:44px}
   #page-locais .places-tools .manage-button{min-height:44px}
 }
+
+/* Busca e ordenação integradas aos filtros de Locais */
+#page-locais .place-select-filters{grid-template-columns:repeat(5,minmax(0,1fr))}
+#page-locais .place-select-filters input,#page-locais .place-select-filters select{width:100%;max-width:none;min-height:40px;padding:8px 10px;border:1px solid var(--line);border-radius:9px;background:var(--panel);color:var(--text);font:13px var(--font)}
+#page-locais .place-select-filters input::placeholder{color:var(--muted)}
+#page-locais .place-select-filters input:focus,#page-locais .place-select-filters select:focus{outline:2px solid color-mix(in srgb,var(--blue) 50%,transparent);outline-offset:1px}
+@media(max-width:900px){#page-locais .place-select-filters{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:700px){
+  #page-locais .place-select-filters{grid-template-columns:repeat(2,minmax(0,1fr))}
+  #page-locais .place-select-filters label:first-child{grid-column:1/-1}
+  #page-locais .place-select-filters input,#page-locais .place-select-filters select{min-height:44px;font-size:14px}
+}
