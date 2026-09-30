@@ -1,5 +1,7 @@
 # TravelHub — Japão 2026
 
+https://victorciola-collab.github.io/TravelHub/
+
 Guia pessoal de viagem feito com HTML, CSS e JavaScript puro. O projeto não usa frameworks, backend ou etapa de build e pode ser publicado diretamente no GitHub Pages.
 
 ## Fontes de dados
