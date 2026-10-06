@@ -106,6 +106,7 @@ window.TRAVEL_DATA = {
                                            "place-takeshita-street",
                                            "place-omotesando",
                                            "place-shibuya-crossing",
+                                           "place-Nintendo Tokyo Shibuya Japan",
                                            "place-shibuya-sky"
                                        ],
                           "periods":  {
@@ -128,6 +129,9 @@ window.TRAVEL_DATA = {
                                           "night":  [
                                                         {
                                                             "localId":  "place-shibuya-crossing"
+                                                        },
+                                                        {
+                                                            "localId":  "place-Nintendo Tokyo Shibuya Japan"
                                                         },
                                                         {
                                                             "localId":  "place-shibuya-sky"
