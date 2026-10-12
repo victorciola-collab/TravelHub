@@ -1,0 +1,150 @@
+[
+  {
+    "status": "started",
+    "label": "Local browser integration checks"
+  },
+  {
+    "status": "pass",
+    "label": "14 checklist items"
+  },
+  {
+    "status": "pass",
+    "label": "320px / dark: no horizontal overflow"
+  },
+  {
+    "status": "pass",
+    "label": "320px / light: no horizontal overflow"
+  },
+  {
+    "status": "pass",
+    "label": "375px / dark: no horizontal overflow"
+  },
+  {
+    "status": "pass",
+    "label": "375px / light: no horizontal overflow"
+  },
+  {
+    "status": "pass",
+    "label": "390px / dark: no horizontal overflow"
+  },
+  {
+    "status": "pass",
+    "label": "390px / light: no horizontal overflow"
+  },
+  {
+    "status": "pass",
+    "label": "768px / dark: no horizontal overflow"
+  },
+  {
+    "status": "pass",
+    "label": "768px / light: no horizontal overflow"
+  },
+  {
+    "status": "pass",
+    "label": "1440px / dark: no horizontal overflow"
+  },
+  {
+    "status": "pass",
+    "label": "1440px / light: no horizontal overflow"
+  },
+  {
+    "status": "pass",
+    "label": "navigation dashboard"
+  },
+  {
+    "status": "pass",
+    "label": "navigation roteiro"
+  },
+  {
+    "status": "pass",
+    "label": "navigation hoteis"
+  },
+  {
+    "status": "pass",
+    "label": "navigation voos"
+  },
+  {
+    "status": "pass",
+    "label": "navigation locais"
+  },
+  {
+    "status": "pass",
+    "label": "navigation transportes"
+  },
+  {
+    "status": "pass",
+    "label": "existing sections render records"
+  },
+  {
+    "status": "pass",
+    "label": "mobile menu opens"
+  },
+  {
+    "status": "pass",
+    "label": "mobile navigation closes menu"
+  },
+  {
+    "status": "pass",
+    "label": "step jump preserves app route and focuses content"
+  },
+  {
+    "status": "pass",
+    "label": "checklist stores progress"
+  },
+  {
+    "status": "pass",
+    "label": "checklist survives reload"
+  },
+  {
+    "status": "pass",
+    "label": "unchecking updates progress"
+  },
+  {
+    "status": "pass",
+    "label": "all items reach 100 percent"
+  },
+  {
+    "status": "pass",
+    "label": "reset cancellation preserves progress"
+  },
+  {
+    "status": "pass",
+    "label": "confirmed reset persists"
+  },
+  {
+    "status": "pass",
+    "label": "blocked storage has usable checklist and clear notice"
+  },
+  {
+    "status": "pass",
+    "label": "guide does not mutate travel records"
+  },
+  {
+    "status": "pass",
+    "label": "address copy provides feedback"
+  },
+  {
+    "status": "pass",
+    "label": "all guide links use supported schemes"
+  },
+  {
+    "status": "pass",
+    "label": "offline download resolves under GitHub Pages subpath"
+  },
+  {
+    "status": "pass",
+    "label": "offline file opens without network and contains guide"
+  },
+  {
+    "status": "pass",
+    "label": "offline checklist works"
+  },
+  {
+    "status": "pass",
+    "label": "no browser JavaScript exceptions"
+  },
+  {
+    "status": "stopped",
+    "label": "Browser and local test server stopped"
+  }
+]
