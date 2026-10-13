@@ -608,17 +608,35 @@ window.TRAVEL_DATA = {
   "address": "2-4-10 Komagata, Taito-ku, Tokyo 111-0043, Japão",
   "checkin": "2026-10-31",
   "checkout": "2026-11-08",
-  "booking": "6828911901",
+  "booking": "9999999",
   "nearestStation": "Kuramae Station (Toei Asakusa Line)",
   "stationWalkTime": "3 min",
   "checkinTime": "15:00",
   "checkoutTime": "10:00",
-  "paidAmount": 6333.25,
+  "paidAmount": 0.00,
   "paymentStatus": "Pagar no hotel",
   "maps": "https://maps.app.goo.gl/BiaZvVx2CbJgKohn9",
   "icon": "🏨",
-  "notes": "Quarto Duplo - Não Fumantes. 2 adultos. 8 noites. Cancelamento gratuito até 1 dia antes da chegada. Sem café da manhã incluído. Valor estimado de ¥177.257 (aprox. R$ 6.333,25 na data da reserva). Localização estratégica entre Asakusa e Kuramae, com acesso fácil ao Senso-ji, Tokyo Skytree e linha direta para Narita."
-}
+  "notes": "Quarto Duplo - Não Fumantes. 2 adultos. 8 noites. Cancelamento gratuito até 1 dia antes da chegada. Sem café da manhã incluído. Localização estratégica entre Asakusa e Kuramae, com acesso fácil ao Senso-ji, Tokyo Skytree e linha direta para Narita."
+},
+                    {
+    "name": "Sotetsu Fresa Inn Kyoto-Kiyomizu Gojo",
+    "city": "Kyoto",
+    "area": "Kiyomizu",
+    "address": "1-1 Kiyomizu, Kyoto 606-0001, Japão",
+    "checkin": "2026-10-31",
+    "checkout": "2026-11-08",
+    "booking": "9999999",
+    "nearestStation": "Kiyomizu Station (Keihan Main Line)",
+    "stationWalkTime": "5 min",
+    "checkinTime": "15:00",
+    "checkoutTime": "10:00",
+    "paidAmount": 0,
+    "paymentStatus": "Pagar no hotel",
+    "maps": "https://maps.app.goo.gl/5JqVx2CbJgKohn9",
+    "icon": "🏨",
+    "notes": "Quarto Duplo - Não Fumantes. 2 adultos. 8 noites. Cancelamento gratuito até 1 dia antes da chegada. Sem café da manhã incluído. Localização estratégica em Kyoto, com acesso fácil aos templos de Kiyomizu e Gion."
+                    }
                ],
     "trip":  {
                  "id":  "japan-2026",
